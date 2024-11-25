@@ -1,0 +1,1 @@
+This project is the result of following the tutorial of Django from the official documentation.
